@@ -1,4 +1,4 @@
-package com.student.student.Controller;
+package com.student.student.entity;
 
 import java.io.Serializable;
 
